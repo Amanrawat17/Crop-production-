@@ -8,13 +8,7 @@ This project is a Crop Recommendation System that suggests suitable crops to far
 - [Dataset](#dataset)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Data Preprocessing](#data-preprocessing)
-- [Model Training](#model-training)
-- [Results](#results)
-- [Visualization](#visualization)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
